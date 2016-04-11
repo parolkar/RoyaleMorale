@@ -9,8 +9,7 @@ Basic useful feature list:
  * Basic Chat UI
  
 
-
- Setup:
+Setup:
  
  * Clone the repo
  * Set the Watson username & password in config/initializers/watson_dialog_config.rb
