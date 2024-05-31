@@ -1,5 +1,7 @@
 # Royale Morale
 
+![Intro to Royale Morale](guide/img/agent_royalemorale.png)
+
 ## Overview
 Royale Morale is an open-source AI agent designed to help governments and organizations monitor and evaluate Agentic AI systems. It provides automated way to ensures these systems adhere to ethical standards and safety protocols, providing oversight and maintaining public trust in AI technologies. **Royale Morale is under heavy development and encouraging contributions from the community.**
 
@@ -30,5 +32,9 @@ This version of Royale Morale is released under the MIT License.
 
 ## Questions?
 Let [@parolkar](https://x.com/parolkar) know.
+
+## Supporters and Sponsors
+
+![Royale Morale Sponsors](guide/img/sponsor_slot.png)
 
 
