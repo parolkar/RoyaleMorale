@@ -38,3 +38,8 @@ Let [@parolkar](https://x.com/parolkar) know.
 ![Royale Morale Sponsors](guide/img/sponsor_slot.png)
 
 
+## Made possible by generous contributions from
+
+1. [ForwardLeague.org](https://www.meetup.com/forwardleague/) - Community of Forward Thinkers
+2. [Dotted Circle](https://dottedcircle.com/) 
+
