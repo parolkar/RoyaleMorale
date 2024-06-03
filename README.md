@@ -8,7 +8,7 @@ Royale Morale is an open-source AI agent designed to help governments and organi
 Royale Morale focuses on building an open-source agent that scans source code and analyzes AI prompts used in developing Large Language Model (LLM) applications. The primary aim is to ensure AI Safety and AI Ethics in these applications.
 
 ## Origin Story
-This project began back in 2016 with the goal of creating an easy way to build AI ChatBots and Agents through IBM Watson's AI. But now evolving to become an **Safety Agent** for the **Agentic world of AI**. The contributors on this repository have experience in AI and also in helping governments in their National AI Strategies.
+This project began back in 2016 with the goal of creating an easy way to build AI ChatBots and Agents through IBM Watson's AI. But now evolving to become a **Safety Agent** for the **Agentic world of AI**. The contributors on this repository have experience in AI and also in helping governments in their National AI Strategies.
 
 ## Tell me more, How?
 At the moment this is focussed on agents and LLM applications that are built on Ruby & Rails. It scans the source code automatically, detects for LLM related code and AI Prompts and uses a configuration files to run a AI Athics & Safety Ranking. 
